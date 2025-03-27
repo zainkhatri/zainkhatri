@@ -46,14 +46,14 @@
 
   <h2>Connect</h2>
   <p>
-    <a href="https://www.zainkhatri.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+    <a href="https://www.zainkhatri.com/" target="_blank" style="margin-right: 10px;">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" alt="Website">
     </a>
-    <a href="mailto:contact@zainkhatri.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <a href="mailto:contact@zainkhatri.com" target="_blank" style="margin-right: 10px;">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/zainkhatri/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-4285F4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn">
     </a>
   </p>
 
