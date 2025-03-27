@@ -3,12 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&width=600&height=50&size=18)
 
 ## About Me
-Hi, I'm Zain! I'm a Senior at UCSD pursuing a degree in COGSCI & ML. 
-I've been fortunate to work on diverse projects, like developing algorithms for exoskeletons, 
-building autonomous rovers, and creating real-time detection and data management.
+Hi, I'm Zain! I've been fortunate to work on diverse projects in the intersection of cognition and technology, creating real-time detection systems and data management solutions.
 
-Aside from technical work, I love to play basketball, learn new songs on the guitar, skateboard, play chess, 
-and meet new people when I have the pleasure.
+Aside from technical work, I love to play basketball, learn new songs on the guitar, skateboard, play chess, and meet new people when I have the pleasure.
 
 ## Technical Expertise
 `Python` `JavaScript` `React` `TensorFlow` `C++` `Java` `Swift` `Arduino` `Machine Learning`
