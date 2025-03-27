@@ -8,8 +8,6 @@
       style="max-width: 100%;"
     >
   </p>
-  
-  <p>Peace be upon you.</p>
 
   <h2>About Me</h2>
   <p>
