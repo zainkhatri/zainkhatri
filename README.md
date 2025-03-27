@@ -1,4 +1,4 @@
-<div style="font-family: 'Courier New', Courier, monospace; text-align: center;">
+<div style="font-family: 'Courier New', Courier, monospace; text-align: left;">
 
 # Zain Khatri  
 ## Cognitive Science & Machine Learning
