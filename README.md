@@ -47,13 +47,13 @@
   <h2>Connect</h2>
   <p>
     <a href="https://www.zainkhatri.com/" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" alt="Website">
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/domain.png" alt="Website">
     </a>
     <a href="mailto:contact@zainkhatri.com" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email">
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/new-post.png" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/zainkhatri/" target="_blank">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn">
+      <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="LinkedIn">
     </a>
   </p>
 
