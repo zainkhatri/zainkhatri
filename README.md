@@ -1,11 +1,9 @@
-<div style="font-family: 'Courier New', Courier, monospace;">
+<div style="font-family: 'Courier New', Courier, monospace; text-align: center;">
 
 # Zain Khatri  
 ## Cognitive Science & Machine Learning
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&center=true&width=600&height=50&vCenter=true&size=18" alt="Typing Animation">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&center=true&width=600&height=50&vCenter=true&size=18" alt="Typing Animation">
 
 Peace be upon you.
 
@@ -39,10 +37,8 @@ Interactive game powered by machine learning where players must quickly find spe
 
 ## Connect
 
-<p>
-  <a href="https://www.zainkhatri.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:contact@zainkhatri.com"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/zainkhatri/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<a href="https://www.zainkhatri.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="mailto:contact@zainkhatri.com"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/zainkhatri/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
