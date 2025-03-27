@@ -23,13 +23,13 @@ A self-navigating rover that uses GPS and sensor data for autonomous travel.
 An EEG-based ML algorithm to assist stroke or Parkinson's patients with posture and mobility.  
 [View Project](https://github.com/zainkhatri/exoskeleton-brainwave-algorithm)
 
-### MunchMate - AI Recipe Generator
-Transforms ingredients into healthy, delicious meals using AI and GPT-3.5.  
-[View Project](https://github.com/zainkhatri/munchmate)
+### Leukemia Classifier
+Leukemia Classifier Project using machine learning techniques.  
+[View Project](https://github.com/zainkhatri/leukemia-classifier)
 
-### Eagle Eye Game
-A quick-spot game powered by ML-based vision processing.  
-[View Project](https://github.com/zainkhatri/eagle-eye-game)
+### Chess CNN Analysis
+Supervised Learning (CNN-based model for chess tactics).  
+[View Project](https://github.com/zainkhatri/chess_cnn_analysis)
 
 ## Connect
 
