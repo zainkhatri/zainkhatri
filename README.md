@@ -15,19 +15,19 @@ and meet new people when I have the pleasure.
 
 ## Featured Projects
 
-### NASA Autonomous Rover
+### 🛰️ NASA Autonomous Rover
 A self-navigating rover that uses GPS and sensor data for autonomous travel.  
 [View Project](https://github.com/zainkhatri/nasa-caspacegrant-autonomous-rover)
 
-### UC Berkeley Exoskeleton Brainwave Algorithm
+### 🧠 UC Berkeley Exoskeleton Brainwave Algorithm
 An EEG-based ML algorithm to assist stroke or Parkinson's patients with posture and mobility.  
 [View Project](https://github.com/zainkhatri/exoskeleton-brainwave-algorithm)
 
-### Leukemia Classifier
+### 🔬 Leukemia Classifier
 Leukemia Classifier Project using machine learning techniques.  
 [View Project](https://github.com/zainkhatri/leukemia-classifier)
 
-### Chess CNN Analysis
+### ♟️ Chess CNN Analysis
 Supervised Learning (CNN-based model for chess tactics).  
 [View Project](https://github.com/zainkhatri/chess_cnn_analysis)
 
