@@ -2,8 +2,9 @@
 
   <h1 style="margin-bottom: 0.5em;">Zain Khatri</h1>  
   <p>
+    <!-- Removed &center=true and &vCenter=true so text is left-aligned -->
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&center=true&width=600&height=50&vCenter=true&size=18" 
+      src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&width=600&height=50&size=18" 
       alt="Typing Animation"
       style="max-width: 100%;"
     >
