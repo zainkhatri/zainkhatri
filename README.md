@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Courier New', Courier, monospace;">
+<div style="font-family: 'Courier New', Courier, monospace; text-align: left;">
 
   <h1 style="margin-bottom: 0.5em;">Zain Khatri</h1>  
   <p>
