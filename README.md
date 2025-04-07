@@ -1,60 +1,24 @@
-<div style="font-family: 'Courier New', Courier, monospace; text-align: left;">
-
-  <h1 style="margin-bottom: 0.5em;">Zain Khatri</h1>  
+<div align="center">
+  <h1>Zain Khatri</h1>
   <p>
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&width=600&height=50&size=18" 
-      alt="Typing Animation"
-      style="max-width: 100%;"
-    >
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;UCSD+CogSci+/+ML;Autonomous+Systems+Builder;Bridging+Minds+%26+Machines&font=Fahkwang&color=4285F4&center=true&width=600&height=50&vCenter=true&size=22&duration=4000">
   </p>
-
-  <h2>About Me</h2>
+  <p>Peace be upon you.</p>
   <p>
-    Hi, I'm Zain! I'm a Senior at the University of California, San Diego, pursuing a degree in COGSCI &amp; ML. 
-    I've been fortunate to work on diverse projects, like developing algorithms for exoskeletons, 
-    building autonomous rovers, and creating real-time detection and data management.
+    <a href="https://www.zainkhatri.com/"><img src="https://img.shields.io/badge/Visit_My_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website" /></a>
   </p>
-  <p>
-    Aside from technical work, I love to play basketball, learn new songs on the guitar, skateboard, play chess, 
-    and meet new people when I have the pleasure.
-  </p>
+</div>
 
-  <h2>Technical Expertise</h2>
-  <p>
-    <code>Python</code> <code>JavaScript</code> <code>React</code> <code>TensorFlow</code> <code>C++</code> 
-    <code>Java</code> <code>Swift</code> <code>Arduino</code> <code>Machine Learning</code>
-  </p>
+### About Me
 
-  <h2>Featured Projects</h2>
+Senior at the University of California, San Diego, pursuing a degree in Cognitive Science & Machine Learning. Working on AI-based solutions and exoskeleton algorithms. When not coding: basketball, guitar, skateboarding, chess.
 
-  <h3>NASA Autonomous Rover</h3>
-  <p>A self-navigating rover that uses GPS and sensor data for autonomous travel.</p>
-  <a href="https://github.com/zainkhatri/nasa-caspacegrant-autonomous-rover" target="_blank">View Project</a>
+### Featured Projects
 
-  <h3>UC Berkeley Exoskeleton Brainwave Algorithm</h3>
-  <p>An EEG-based ML algorithm to assist stroke or Parkinson's patients with posture and mobility.</p>
-  <a href="https://github.com/zainkhatri/exoskeleton-brainwave-algorithm" target="_blank">View Project</a>
+**NASA Autonomous Rover** • **UC Berkeley Exoskeleton Brainwave Algorithm** • **MunchMate AI Recipe Generator** • **Eagle Eye Game**
 
-  <h3>MunchMate - AI Recipe Generator</h3>
-  <p>Transforms ingredients into healthy, delicious meals using AI and GPT-3.5.</p>
-  <a href="https://github.com/zainkhatri/munchmate" target="_blank">View Project</a>
-
-  <h3>Eagle Eye Game</h3>
-  <p>A quick-spot game powered by ML-based vision processing.</p>
-  <a href="https://github.com/zainkhatri/eagle-eye-game" target="_blank">View Project</a>
-
-  <h2>Connect</h2>
-  <p>
-    <a href="https://www.zainkhatri.com/" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.icons8.com/ios/30/ffffff/domain.png" alt="Website">
-    </a>
-    <a href="mailto:contact@zainkhatri.com" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.icons8.com/ios/30/ffffff/new-post.png" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/zainkhatri/" target="_blank">
-      <img src="https://img.icons8.com/ios/30/ffffff/linkedin.png" alt="LinkedIn">
-    </a>
-  </p>
-
+<div align="center">
+  <a href="https://www.zainkhatri.com/"><img src="https://img.shields.io/badge/See_Full_Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="See Full Portfolio" /></a>
+  <a href="mailto:contact@zainkhatri.com"><img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/zainkhatri/"><img src="https://img.shields.io/badge/LinkedIn-4285F4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
