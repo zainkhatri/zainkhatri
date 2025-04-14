@@ -46,7 +46,7 @@
   
   [![Website](https://img.shields.io/badge/Website-3A7CA5?style=for-the-badge&logo=web&logoColor=white)](https://www.zainkhatri.com/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@zainkhatri.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainkhatri/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainkhatrii/)
   
 </div>
 
