@@ -19,26 +19,6 @@
     Aside from technical work, I love to play basketball, learn new songs on the guitar, skateboard, play chess, 
     and meet new people when I have the pleasure.
   </p>
-
-  <h2>Technical Expertise</h2>
-  <p>
-    <code>Python</code> <code>JavaScript</code> <code>React</code> <code>TensorFlow</code> <code>C++</code> 
-    <code>Java</code> <code>Swift</code> <code>Arduino</code> <code>Machine Learning</code>
-  </p>
-
-  <h2>Featured Projects</h2>
-
-  <h3>NASA Autonomous Rover</h3>
-  <p>A self-navigating rover that uses GPS and sensor data for autonomous travel.</p>
-  <a href="https://github.com/zainkhatri/nasa-caspacegrant-autonomous-rover" target="_blank">View Project</a>
-
-  <h3>UC Berkeley Exoskeleton Brainwave Algorithm</h3>
-  <p>An EEG-based ML algorithm to assist stroke or Parkinson's patients with posture and mobility.</p>
-  <a href="https://github.com/zainkhatri/exoskeleton-brainwave-algorithm" target="_blank">View Project</a>
-
-  <h3>MunchMate - AI Recipe Generator</h3>
-  <p>Transforms ingredients into healthy, delicious meals using AI and GPT-3.5.</p>
-  <a href="https://github.com/zainkhatri/munchmate" target="_blank">View Project</a>
   
 ## Connect With Me
 
